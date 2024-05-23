@@ -13,3 +13,8 @@ You can get your clientid and bearer token from the developer tools while you ha
 # Requirements
 - pandas (for exporting to csv)
 - requests (for making API calls)
+
+# Steven's Update
+To obtain the bearer token and clientID, log into Automate's web portal and open up Inspect/Developer Options. Under the `Network` tab, load up the passwords under the company and open the password box. You will be able to locate the deploymentlogins and under the headers will have the `Authorization:` and `ClientID:` which is the necessary authentication you need to utilize this script
+
+![wow](https://github.com/OlsenSM91/CWA_Password_Extractor/assets/130707762/e181804b-f358-41c7-981d-d25f5f6ba684)
