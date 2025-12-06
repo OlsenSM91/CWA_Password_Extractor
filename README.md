@@ -1,5 +1,7 @@
 # CWA Password Extractor
 
+<img width="752" height="607" alt="Screenshot 2025-12-05 160456" src="https://github.com/user-attachments/assets/b402c237-bfbc-4597-9a9d-b76b4b2e3ecc" />
+
 Enhanced utility for extracting passwords from ConnectWise Automate for client offboarding. This tool automates the bearer token extraction and allows selective client password exports.
 
 ## Features
